@@ -1,0 +1,14 @@
+[app]
+name = "Poi Simulator"
+category = "Pattern"
+wifi_preference = false
+
+[entry]
+class = "PoiSimApp"
+
+[metadata]
+author = "danny-thomas"
+license = "Unlicense"
+url = "https://github.com/jake-walker/tildagon-name-badge"
+description = "A poi spinning simulator"
+version = "0.0.1"
