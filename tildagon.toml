@@ -1,6 +1,6 @@
 [app]
 name = "Poi Simulator"
-category = "Pattern"
+category = "Apps"
 wifi_preference = false
 
 [entry]
@@ -11,4 +11,4 @@ author = "danny-thomas"
 license = "Unlicense"
 url = "https://github.com/jake-walker/tildagon-name-badge"
 description = "A poi spinning simulator"
-version = "0.0.1"
+version = "0.0.2"
